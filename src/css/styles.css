@@ -18,3 +18,14 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+h1 {
+  margin-left: 40px;
+  font-size: large;
+  text-transform: uppercase;
+  color: rgb(247, 2, 165);
+}
+li {
+  list-style: none;
+  color: rgb(82, 82, 82);
+}
